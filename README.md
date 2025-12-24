@@ -1,50 +1,73 @@
 <h1>
-<img align="left"  width=75 height=75 src="./images/icon.png">
-
-# Get Ideas
-
+<img align="left" width="75" height="75" src="./images/icon.png">
+Horse Tips International
 </h1>
 
-Get more done by getting the right ideas on time.
+We provide expert horse racing tips on all global racing.  
+From east to west, all around the globe, **Horse Tips International** delivers reliable and up-to-date racing tips.
+
+---
+
+## 📱 Download on Google Play
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.golden.chat_bet" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" alt="Get it on Google Play">
+  </a>
+</p>
+
+> Available **only on Google Play Store**
+
+---
 
 ## Description
 
-Get Ideas is a mobile app developed with React Native.
+**Horse Tips International** is a mobile application built with **React Native**.  
+The app provides **expert horse racing tips from international races**, helping users stay informed across global events.
 
-#### Note: If you want to test the app, an APK is present in the root.
+With the rapid growth of international horse racing, this app ensures users get **trusted tips from around the world** — all in one place.
+
+---
+
+## 🖼️ Screenshots
 
 <table>
-<td>
-<img src='./images/screenshot1.png' width=250 />
-</td>
-<td>
-<img src='./images/screenshot2.png' width=250 />
-</td>
-<td>
-<img src='./images/screenshot3.png' width=250 />
-</td>
-<td>
-<img src='./images/screenshot4.png' width=250 />
-</td>
-<td>
-<img src='./images/screenshot5.png' width=250 />
-</td>
-<td>
-<img src='./images/screenshot6.png' width=250 />
-</td>
+<tr>
+<td><img src="https://play-lh.googleusercontent.com/up-lqzbxYz7LjCTTA1aSb9nMPyOD1DeKvjjSE6jZ0u-HjXjFew-_PJgPYE082rQYN5I=w5120-h2880-rw" width="250" /></td>
+<td><img src="https://play-lh.googleusercontent.com/e_u-550ECCBNhRAebQ8Z-OV9ZNyALzwQsJcoGnlFViciU9d-w-rNLIdsuGXwROgqZP_l=w5120-h2880-rw" width="250" /></td>
+<td><img src="https://play-lh.googleusercontent.com/IGGvUf4htyR8b0RxhWNj5wYAPEf_dpXjJyCJZVHWuWNt0MG6GYLXjMS_6oG1da6BJmc=w5120-h2880-rw" width="250" /></td>
+</tr>
+
 </table>
+
+---
 
 ## Features
 
-- Swipe cards to get new ideas.
-- Tap the idea to save an idea and setup a calendar reminder for it.
+- Expert horse racing tips worldwide  
+- Coverage of international racing events  
+- Easy-to-use and clean UI  
+- Fast and lightweight React Native app  
 
-##### It uses https://github.com/drewthoennes/Bored-API to generate ideas.
+---
+
+## Tech Stack
+
+- **React Native**
+- **JavaScript**
+- **Android (Play Store)**
+
+---
 
 ## Contribution
 
-PRs are most welcome, if you contribute by solving a bug, answering a query or by adding a new feature. Everything is appreciated.
+Contributions are welcome 🙌  
 
-## License
+- Bug fixes  
+- Feature enhancements  
+- UI/UX improvements  
 
-MIT
+Feel free to open a Pull Request.
+
+---
+
